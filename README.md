@@ -3,7 +3,6 @@
 [![MasterHead](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif)]
 <h1 align="center">Hi 👋, I'm Cezar-Daniel Zgondea</h1>
 <h3 align="center">A Computer Science Student From Romania</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zgondea&label=Profile%20views&color=0e75b6&style=flat" alt="zgondea" /> </p>
 
