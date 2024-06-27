@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Side Projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python,Java**
 
 - 📫 How to reach me **CezarZgondea@gmail.com**
 
