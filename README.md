@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **CezarZgondea@gmail.com**
 
-- ⚡ Fun fact **I Love Animes**
+- ⚡ Fun fact ** Idk what I am doing here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
