@@ -26,22 +26,18 @@
 
 <br><br>
 
-<div style="width: 50%; text-align: center;">
-
 ### 🖥️ Workstation Specs
-* **CPU:** Intel Core Ultra 9 285K
-* **GPU:** NVIDIA GeForce RTX 5090
-* **RAM:** 128GB DDR5
-* **Storage:** 4TB Samsung 990 PRO NVMe
+Intel Core Ultra 9 285K
+NVIDIA GeForce RTX 5090
+128GB DDR5
+4TB Samsung 990 PRO NVMe
 
 <br>
 
 ### 📂 Active Research
-* **Neural Architecture:** Transformer-based models
-* **Computer Vision:** Real-time detection (YOLOv8)
-* **LLM Optimization:** Local deployment on RTX 50 series
-
-</div>
+Neural Architecture: Transformer-based models
+Computer Vision: Real-time detection (YOLOv8)
+LLM Optimization: Local deployment on RTX 50 series
 
 <br>
 
