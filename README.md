@@ -74,6 +74,6 @@ LLM Optimization: Local deployment on RTX 50 series
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=4" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
 </div>
