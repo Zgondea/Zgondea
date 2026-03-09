@@ -52,8 +52,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
 ### 📊 System Overview
-<img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGONDEA_AICI&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=k-eye&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-eye&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
 
 <br><br>
 
