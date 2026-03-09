@@ -66,7 +66,7 @@ Hardware: Pushing RTX 50-series limits
 <br><br>
 
 ### 🔗 Network Connectivity
-[**INSTAGRAM**]([LINK](https://www.instagram.com/zgondea._.cezar/)) • [**YOUTUBE**]([LINK](https://www.youtube.com/@Keye-c8j)) • [**DISCORD**]([LINK](https://discordapp.com/users/949617292180873266))
+[**INSTAGRAM**](https://www.instagram.com/zgondea._.cezar/) • [**YOUTUBE**](https://www.youtube.com/@Keye-c8j) • [**DISCORD**](https://discordapp.com/users/949617292180873266)
 
 <br>
 
