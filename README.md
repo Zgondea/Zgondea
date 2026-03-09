@@ -2,13 +2,17 @@
 
 # 𝓚-𝓮𝔂𝓮
 
-<table border="0" cellpadding="0" cellspacing="2" style="border: 2px solid #f85149; background-color: #0d1117;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
+
+<br>
+
+<table border="0" cellpadding="0" cellspacing="2" style="border: 2px solid #f85149;">
   <tr style="background-color: #f85149;">
-    <td><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
-    <td><img src="https://u.cubeupload.com/zgd04/2.gif" width="160"></td>
-    <td><img src="https://u.cubeupload.com/zgd04/3.gif" width="160"></td>
-    <td><img src="https://u.cubeupload.com/zgd04/4.gif" width="160"></td>
-    <td><img src="https://u.cubeupload.com/zgd04/5.gif" width="160"></td>
+    <td style="padding: 1px;"><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
+    <td style="padding: 1px;"><img src="https://u.cubeupload.com/zgd04/2.gif" width="160"></td>
+    <td style="padding: 1px;"><img src="https://u.cubeupload.com/zgd04/3.gif" width="160"></td>
+    <td style="padding: 1px;"><img src="https://u.cubeupload.com/zgd04/4.gif" width="160"></td>
+    <td style="padding: 1px;"><img src="https://u.cubeupload.com/zgd04/5.gif" width="160"></td>
   </tr>
 </table>
 
@@ -70,10 +74,10 @@ LLM Optimization: Local deployment on RTX 50 series
 <br>
 
 ### 🔗 Digital Presence
-[**INSTAGRAM**](YOUR_LINK) • [**YOUTUBE**](YOUR_LINK) • [**DISCORD**](YOUR_LINK)
+[**INSTAGRAM**](LINK) • [**YOUTUBE**](LINK) • [**DISCORD**](LINK)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=4" width="100%">
 
 </div>
