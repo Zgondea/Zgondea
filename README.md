@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝔎𝔞𝔫𝔢𝔨𝔦 𝔎𝔢𝔫 
+# 𝓚-𝓮𝔂𝓮
 <table border="0" cellpadding="0" cellspacing="2">
   <tr>
     <td><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
@@ -15,49 +15,41 @@
 
 <br>
 
-### 🧠 Machine Learning & AI Engineer
----
+## 🤖 AI & Machine Learning Architect
+*"Training models to understand the pain of 1000-7"*
+
+<br>
+
+### 🛠️ Neural Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git&theme=dark" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f85149&height=30&section=header&text=Research%20&%20Development&fontSize=18&fontAlign=50" width="100%">
 
 </div>
 
-> *„I'm not the one who's wrong. What's wrong is the way the data is biased.”*
-
-* 🤖 **Current Focus:** Deep Learning & Neural Networks
-* 🧪 **Learning:** Advanced Transformers & Reinforcement Learning
-* ⚡ **Fact:** What's 1000 minus 7?
-* 📍 **Based in:** România
+### 📂 Core Capabilities
+* **Deep Learning:** Architecting CNNs, RNNs, and Transformers for complex pattern recognition.
+* **Computer Vision:** Image processing and real-time object detection using OpenCV and YOLO.
+* **NLP:** Working with LLMs and sentiment analysis.
+* **Maintanance:** Deploying models using Docker and cloud environments.
 
 <br>
 
 <div align="center">
 
-### 🛠️ Tech Stack (AI/ML focused)
+### 📊 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGONDEA_AICI&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
 
-<table border="0" cellpadding="5">
-  <tr>
-    <td align="center"><b>Python</b></td>
-    <td align="center"><b>PyTorch</b></td>
-    <td align="center"><b>TensorFlow</b></td>
-    <td align="center"><b>Scikit-learn</b></td>
-  </tr>
-  <tr>
-    <td align="center">Pandas</td>
-    <td align="center">NumPy</td>
-    <td align="center">OpenCV</td>
-    <td align="center">NLTK</td>
-  </tr>
-</table>
+<br><br>
+
+### 🔗 Digital Presence
+[**INSTAGRAM**](LINK) • [**YOUTUBE**](LINK) • [**DISCORD**](LINK)
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="450">
-
-<br>
-
-### 🔗 Connect with me
-[**Instagram**](LINK_INSTA) • [**YouTube**](LINK_YT) • [**Discord**](LINK_DISCORD)
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
