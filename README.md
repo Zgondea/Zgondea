@@ -26,20 +26,25 @@
 
 <br><br>
 
-<div style="width: 50%; text-align: center;">
+<div style="width: 70%; text-align: center;">
 
 ### 🖥️ Workstation Specs
-* **CPU:** Intel Core Ultra 9 285K
-* **GPU:** NVIDIA GeForce RTX 5090
-* **RAM:** 128GB DDR5
-* **Storage:** 4TB Samsung 990 PRO NVMe
+Intel Core Ultra 9 285K
+<br>
+NVIDIA GeForce RTX 5090
+<br>
+128GB DDR5
+<br>
+4TB Samsung 990 PRO NVMe
 
 <br>
 
 ### 📂 Active Research
-* **Neural Architecture:** Transformer-based models
-* **Computer Vision:** Real-time detection (YOLOv8)
-* **LLM Optimization:** Local deployment on RTX 50 series
+Neural Architecture: Transformer-based models
+<br>
+Computer Vision: Real-time detection (YOLOv8)
+<br>
+LLM Optimization: Local deployment on RTX 50 series
 
 </div>
 
@@ -47,8 +52,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
-### 📊 Model Activity Pulse
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
+### 📊 System Activity & Neural Pulse
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <p><b>Contributions (Daily Pulse)</b></p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <p><b>Commit Evolution</b></p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=false&hide_border=true&height=180" width="100%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
