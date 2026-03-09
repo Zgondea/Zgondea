@@ -8,11 +8,11 @@
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/1.gif" width="135"></td>
-    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/2.gif" width="135"></td>
-    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/3.gif" width="135"></td>
-    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/4.gif" width="135"></td>
-    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/5.gif" width="135"></td>
+    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/1.gif" width="125"></td>
+    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/2.gif" width="125"></td>
+    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/3.gif" width="125"></td>
+    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/4.gif" width="125"></td>
+    <td style="padding: 0;"><img src="https://u.cubeupload.com/zgd04/5.gif" width="125"></td>
   </tr>
 </table>
 
@@ -30,21 +30,21 @@
 
 <br><br>
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="border: none;">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <h3>🖥️ High-Compute Workstation</h3>
-      <b>Processor:</b> Intel Core Ultra 9 285K<br>
-      <b>Graphics:</b> NVIDIA GeForce RTX 5090<br>
-      <b>Memory:</b> 128GB DDR5 RAM<br>
-      <b>Storage:</b> 4TB Samsung 990 PRO NVMe
+      Processor: Intel Core Ultra 9 285K<br>
+      Graphics: NVIDIA GeForce RTX 5090<br>
+      Memory: 128GB DDR5 RAM<br>
+      Storage: 4TB Samsung 990 PRO NVMe
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <h3>📂 Advanced R&D Focus</h3>
-      <b>Architectures:</b> State-of-the-art Transformer Models<br>
-      <b>Vision:</b> Real-time Object Detection & YOLOv8<br>
-      <b>Inference:</b> Local LLM Deployment & Optimization<br>
-      <b>Hardware:</b> Pushing the limits of RTX 50-series
+      Architectures: State-of-the-art Transformers<br>
+      Vision: Real-time Detection & YOLOv8<br>
+      Inference: Local LLM Optimization<br>
+      Hardware: Pushing RTX 50-series limits
     </td>
   </tr>
 </table>
@@ -55,13 +55,13 @@
 
 ### 📊 System Activity & Neural Pulse
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="border: none;">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <p><b>Contributions Pulse</b></p>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none;">
       <p><b>Commit Evolution</b></p>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=false&hide_border=true&height=180" width="100%">
     </td>
