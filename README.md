@@ -26,36 +26,35 @@
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git&theme=dark" />
 </p>
 
-</div>
-
 <br>
 
 ### 🖥️ Workstation Specifications
-* **CPU:** Intel Core Ultra 9 285K
-* **GPU:** NVIDIA GeForce RTX 5090
-* **RAM:** 128GB DDR5
-* **Storage:** 4TB Samsung 990 PRO NVMe
-
-### 📂 Active Research & Development
-* **Neural Architecture:** Designing Transformer-based models for complex pattern recognition.
-* **Computer Vision:** Real-time object detection and segmentation (YOLOv8).
-* **LLM Optimization:** Fine-tuning and local deployment of large language models on RTX 50 series.
+**CPU:** Intel Core Ultra 9 285K
+**GPU:** NVIDIA GeForce RTX 5090
+**RAM:** 128GB DDR5
+**Storage:** 4TB Samsung 990 PRO NVMe
 
 <br>
 
-<div align="center">
+### 📂 Active Research & Development
+Designing Transformer-based models for complex pattern recognition.
+Real-time object detection and segmentation (YOLOv8).
+LLM Optimization and local deployment on RTX 50 series hardware.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
-### 📊 Model Performance Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Zgondea&show_icons=true&theme=dark&title_color=f85149&icon_color=f85149&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zgondea&layout=compact&theme=dark&title_color=f85149&hide_border=true" width="40%">
+### 📊 System Metrics
+<img src="https://github-readme-mention-column.vercel.app/api?name=Zgondea&t=tokyonight&c=f85149" width="400">
 
-<br><br>
+<br>
 
 ### 🔗 Digital Presence
 [**INSTAGRAM**](YOUR_LINK) • [**YOUTUBE**](YOUR_LINK) • [**DISCORD**](YOUR_LINK)
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=5" width="100%">
+
 </div>
