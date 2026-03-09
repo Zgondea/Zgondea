@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## 🤖 Senior AI & Machine Learning Engineer
+## 🤖AI & Machine Learning Engineer
 *"Training neural networks to perceive the pain of 1000-7"*
 
 <br>
