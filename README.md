@@ -26,27 +26,20 @@
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git&theme=dark" />
 </p>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
-
 </div>
 
 <br>
 
-### 🖥️ System Specifications (Hardware)
-* **CPU:** Intel Core Ultra 9 285K (High-performance neural processing)
-* **GPU:** NVIDIA GeForce RTX 5090 (32GB VRAM for massive model training)
-* **RAM:** 128GB DDR5 (Handling large-scale datasets in-memory)
-* **Storage:** 4TB Samsung 990 PRO NVMe (Ultra-fast data I/O)
+### 🖥️ System Overview (Hardware)
+* **CPU:** Intel Core Ultra 9 285K 
+* **GPU:** NVIDIA GeForce RTX 5090 
+* **RAM:** 128GB DDR5
+* **Storage:** 4TB Samsung 990 PRO NVMe
 
-<br>
-
-### 📂 System Overview (Active Research)
+### 📂 Active Research
 * **Neural Architecture:** Designing Transformer-based models for complex pattern recognition.
-* **Computer Vision:** Real-time object detection and segmentation using YOLOv8 and Custom CNNs.
-* **LLM Optimization:** Fine-tuning large language models and optimizing inference for local deployment.
-* **AutoML & Pipelines:** Building automated end-to-end ML pipelines with Python and Docker.
+* **Computer Vision:** Real-time object detection and segmentation (YOLOv8).
+* **LLM Optimization:** Fine-tuning and local deployment of large language models.
 
 <br>
 
