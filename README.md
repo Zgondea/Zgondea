@@ -1,6 +1,10 @@
 <div align="center">
 
-# 𝒦-𝑒𝓎𝑒
+# 𝒦-𝑒𝓎𝑒 
+<p align="center">
+  <img src="https://capsule-render.vercelapp/api?type=waving&color=transparent&height=220&section=header&text=𝔎𝔞𝔫𝔢𝔨𝔦%20𝔎𝔢𝔫&fontColor=ffffff&fontSize=45" />
+</p>
+
 <table border="0" cellpadding="0" cellspacing="2">
   <tr>
     <td><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
@@ -11,19 +15,42 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=1" width="100%">
+<img src="https://capsule-render.vercelapp/api?type=rect&color=f85149&height=2" width="100%">
 
 <br>
 
-### ⸸ About Me ⸸
-</div>
+### 🪦 *"Nu eu sunt cel greșit, lumea este."*
+---
 
-> *„Nu eu sunt cel greșit, lumea este.”*
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=tokyonight&color_title=f85149&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=ZGONDEA_AICI&layout=compact&theme=tokyonight&color_title=f85149&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-* 💻 **Working on:** [Proiectul tău aici]
-* 🧪 **Learning:** [Limbajul sau framework-ul tău]
-* ⚡ **Fact:** What's 1000 minus 7?
-* 📍 **Based in:** România
+<br>
+
+### 🧪 Technologies & Skills
+
+<table border="0" cellpadding="5">
+  <tr>
+    <td align="center">Python</td>
+    <td align="center">JavaScript</td>
+    <td align="center">HTML/CSS</td>
+    <td align="center">React</td>
+  </tr>
+  <tr>
+    <td align="center">Tailwind CSS</td>
+    <td align="center">Git</td>
+    <td align="center">Docker</td>
+    <td align="center">Linux</td>
+  </tr>
+</table>
 
 <br>
 
@@ -34,4 +61,7 @@
 
 <br>
 
-<img src="
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+</div>
