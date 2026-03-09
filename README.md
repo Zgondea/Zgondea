@@ -28,22 +28,25 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f85149&height=30&section=header&text=Neural%20Activity%20Pulse&fontSize=18&fontAlign=50" width="100%">
-
-<br>
-
-### 🔴 𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶 𝔉𝔢𝔢𝔡
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGONDEA_AICI&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
 
 </div>
 
 <br>
 
-### 📂 Core Capabilities
-* **Deep Learning:** Architecting CNNs, RNNs, and Transformers for complex pattern recognition.
-* **Computer Vision:** Image processing and real-time object detection using OpenCV and YOLO.
-* **NLP:** Working with LLMs and sentiment analysis.
-* **Deployment:** Model orchestration using Docker and cloud environments.
+### 🖥️ System Specifications (Hardware)
+* **CPU:** Intel Core Ultra 9 285K (High-performance neural processing)
+* **GPU:** NVIDIA GeForce RTX 5090 (32GB VRAM for massive model training)
+* **RAM:** 128GB DDR5 (Handling large-scale datasets in-memory)
+* **Storage:** 4TB Samsung 990 PRO NVMe (Ultra-fast data I/O)
+
+<br>
+
+### 📂 System Overview (Active Research)
+* **Neural Architecture:** Designing Transformer-based models for complex pattern recognition.
+* **Computer Vision:** Real-time object detection and segmentation using YOLOv8 and Custom CNNs.
+* **LLM Optimization:** Fine-tuning large language models and optimizing inference for local deployment.
+* **AutoML & Pipelines:** Building automated end-to-end ML pipelines with Python and Docker.
 
 <br>
 
@@ -51,9 +54,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
-### 📊 System Overview
-<img src="https://github-readme-stats.vercel.app/api?username=zgondea&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgondea&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
+### 📊 Model Performance Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Zgondea&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zgondea&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
 
 <br><br>
 
