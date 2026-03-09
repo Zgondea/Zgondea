@@ -1,6 +1,7 @@
 <div align="center">
 
 # 𝓚-𝓮𝔂𝓮
+
 <table border="0" cellpadding="0" cellspacing="2">
   <tr>
     <td><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
@@ -27,21 +28,30 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f85149&height=30&section=header&text=Research%20&%20Development&fontSize=18&fontAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f85149&height=30&section=header&text=Neural%20Activity%20Pulse&fontSize=18&fontAlign=50" width="100%">
+
+<br>
+
+### 🔴 𝔄𝔠𝔱𝔦𝔳𝔦𝔱𝔶 𝔉𝔢𝔢𝔡
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGONDEA_AICI&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
 
 </div>
+
+<br>
 
 ### 📂 Core Capabilities
 * **Deep Learning:** Architecting CNNs, RNNs, and Transformers for complex pattern recognition.
 * **Computer Vision:** Image processing and real-time object detection using OpenCV and YOLO.
 * **NLP:** Working with LLMs and sentiment analysis.
-* **Maintanance:** Deploying models using Docker and cloud environments.
+* **Deployment:** Model orchestration using Docker and cloud environments.
 
 <br>
 
 <div align="center">
 
-### 📊 GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
+
+### 📊 System Overview
 <img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGONDEA_AICI&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
 
