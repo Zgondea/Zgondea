@@ -30,16 +30,16 @@
 
 <br>
 
-### 🖥️ System Overview (Hardware)
-* **CPU:** Intel Core Ultra 9 285K 
-* **GPU:** NVIDIA GeForce RTX 5090 
+### 🖥️ Workstation Specifications
+* **CPU:** Intel Core Ultra 9 285K
+* **GPU:** NVIDIA GeForce RTX 5090
 * **RAM:** 128GB DDR5
 * **Storage:** 4TB Samsung 990 PRO NVMe
 
-### 📂 Active Research
+### 📂 Active Research & Development
 * **Neural Architecture:** Designing Transformer-based models for complex pattern recognition.
 * **Computer Vision:** Real-time object detection and segmentation (YOLOv8).
-* **LLM Optimization:** Fine-tuning and local deployment of large language models.
+* **LLM Optimization:** Fine-tuning and local deployment of large language models on RTX 50 series.
 
 <br>
 
@@ -48,13 +48,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
 ### 📊 Model Performance Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Zgondea&show_icons=true&theme=transparent&title_color=f85149&text_color=ffffff&icon_color=f85149&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zgondea&layout=compact&theme=transparent&title_color=f85149&text_color=ffffff&hide_border=true" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=Zgondea&show_icons=true&theme=dark&title_color=f85149&icon_color=f85149&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zgondea&layout=compact&theme=dark&title_color=f85149&hide_border=true" width="40%">
 
 <br><br>
 
 ### 🔗 Digital Presence
-[**INSTAGRAM**](LINK) • [**YOUTUBE**](LINK) • [**DISCORD**](LINK)
+[**INSTAGRAM**](YOUR_LINK) • [**YOUTUBE**](YOUR_LINK) • [**DISCORD**](YOUR_LINK)
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
