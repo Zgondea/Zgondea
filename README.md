@@ -19,7 +19,7 @@
 
 <br>
 
-### 🪦 *"Nu eu sunt cel greșit, lumea este."*
+### 🪦 *𝖂𝖍𝖆𝖙'𝖘 1000 𝖒𝖎𝖓𝖚𝖘 7?*
 ---
 
 <table border="0">
