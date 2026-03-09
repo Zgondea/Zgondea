@@ -22,31 +22,33 @@
 <br>
 
 ### 🛠️ Neural Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git&theme=dark" />
+
+<br><br>
+
+<div style="width: 50%; text-align: center;">
+
+### 🖥️ Workstation Specs
+* **CPU:** Intel Core Ultra 9 285K
+* **GPU:** NVIDIA GeForce RTX 5090
+* **RAM:** 128GB DDR5
+* **Storage:** 4TB Samsung 990 PRO NVMe
 
 <br>
 
-### 🖥️ Workstation Specifications
-**CPU:** Intel Core Ultra 9 285K
-**GPU:** NVIDIA GeForce RTX 5090
-**RAM:** 128GB DDR5
-**Storage:** 4TB Samsung 990 PRO NVMe
+### 📂 Active Research
+* **Neural Architecture:** Transformer-based models
+* **Computer Vision:** Real-time detection (YOLOv8)
+* **LLM Optimization:** Local deployment on RTX 50 series
 
-<br>
-
-### 📂 Active Research & Development
-Designing Transformer-based models for complex pattern recognition.
-Real-time object detection and segmentation (YOLOv8).
-LLM Optimization and local deployment on RTX 50 series hardware.
+</div>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=2" width="100%">
 
-### 📊 System Metrics
-<img src="https://github-readme-mention-column.vercel.app/api?name=Zgondea&t=tokyonight&c=f85149" width="400">
+### 📊 Model Activity Pulse
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zgondea&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&height=180" width="100%">
 
 <br>
 
@@ -55,6 +57,6 @@ LLM Optimization and local deployment on RTX 50 series hardware.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=5" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=4" width="100%">
 
 </div>
