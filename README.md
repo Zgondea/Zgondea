@@ -2,8 +2,8 @@
 
 # 𝓚-𝓮𝔂𝓮
 
-<table border="0" cellpadding="0" cellspacing="2">
-  <tr>
+<table border="0" cellpadding="0" cellspacing="2" style="border: 2px solid #f85149; background-color: #0d1117;">
+  <tr style="background-color: #f85149;">
     <td><img src="https://u.cubeupload.com/zgd04/1.gif" width="160"></td>
     <td><img src="https://u.cubeupload.com/zgd04/2.gif" width="160"></td>
     <td><img src="https://u.cubeupload.com/zgd04/3.gif" width="160"></td>
