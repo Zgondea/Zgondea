@@ -11,32 +11,27 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&text=%20&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f85149&height=1" width="100%">
 
 <br>
 
-### 🪦 "What's 1000 minus 7?"
----
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZGONDEA_AICI&show_icons=true&theme=tokyonight&color_title=f85149&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGONDEA_AICI&layout=compact&theme=tokyonight&color_title=f85149&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](LINK_AICI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_AICI)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](LINK_AICI)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
+### ⸸ About Me ⸸
 </div>
+
+> *„Nu eu sunt cel greșit, lumea este.”*
+
+* 💻 **Working on:** [Proiectul tău aici]
+* 🧪 **Learning:** [Limbajul sau framework-ul tău]
+* ⚡ **Fact:** What's 1000 minus 7?
+* 📍 **Based in:** România
+
+<br>
+
+<div align="center">
+
+### 🔗 Connect with me
+[**Instagram**](LINK_INSTA) • [**YouTube**](LINK_YT) • [**Discord**](LINK_DISCORD)
+
+<br>
+
+<img src="
